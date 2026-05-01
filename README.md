@@ -1,4 +1,4 @@
-**(Credits for the name of my tool go to Srinidi Nair (i don't have her github account))**
+**(Credits for the name of my tool go to Srinidhi Nair (i don't have her github account))**
 
 
 
